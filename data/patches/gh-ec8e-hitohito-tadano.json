@@ -1,0 +1,95 @@
+{
+	"id": -1,
+	"name": "Hitohito Tadano",
+	"description": "Hitohito Tadano is a protagonist in the manga/anime Komi Can't Communicate (Japanese: Komi-san wa, Komyushō Desu) by Oda Tomohito. While appearing to be nothing but an ordinary teenage boy, he possesses exceptional observational skills which allow him to understand other people's feelings. He helps his classmate, Shouko Komi, who suffers from an extreme social anxiety, to achieve a goal of getting a hundred friends by the end of their high school years.",
+	"links": {
+		"website": [
+			"https://komisan.fandom.com/wiki/Tadano_Hitohito"
+		],
+		"subreddit": [
+			"Komi_San_Place",
+			"Komi_san"
+		],
+		"discord": [
+			"gFaQVxCGPV"
+		]
+	},
+	"path": {
+		"229-257": [
+			[
+				1097,
+				-821
+			],
+			[
+				1112,
+				-821
+			],
+			[
+				1118,
+				-819
+			],
+			[
+				1129,
+				-818
+			],
+			[
+				1129,
+				-794
+			],
+			[
+				1122,
+				-794
+			],
+			[
+				1121,
+				-793
+			],
+			[
+				1118,
+				-794
+			],
+			[
+				1116,
+				-797
+			],
+			[
+				1109,
+				-797
+			],
+			[
+				1106,
+				-794
+			],
+			[
+				1103,
+				-794
+			],
+			[
+				1101,
+				-797
+			],
+			[
+				1099,
+				-797
+			],
+			[
+				1099,
+				-803
+			],
+			[
+				1097,
+				-804
+			],
+			[
+				1097,
+				-821
+			]
+		]
+	},
+	"center": {
+		"229-257": [
+			1110,
+			-809
+		]
+	}
+}
